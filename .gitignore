@@ -3,3 +3,8 @@
 
 # ignore all csv files
 # *.csv
+
+
+.DS_Store
+__pycache__
+*.db
